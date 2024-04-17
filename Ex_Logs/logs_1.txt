@@ -1,0 +1,608 @@
+hostOnly changed to yes
+timeBank changed to 30
+clockDuration changed to 30
+allowedGames changed
+minBuyIn changed to 5000
+timeLimit changed to yes
+maxBuyIn changed to 5000
+maxPlayers changed to 6
+tags changed
+minBuyIn changed to 1919
+maxBuyIn changed to 10000
+youngdesi adds 4539 chips.
+vxshxl adds 1919 chips.
+devpatel adds 8272 chips.
+BigUzi adds 8201 chips.
+jay adds 6919 chips.
+
+start of hand #1 Mon Apr 08 2024 02:51:13 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+0: youngdesi (4539)
+2: devpatel (8272)
+3: BigUzi (8201)
+4: vxshxl (1919)
+5: jay (6919)
+--- pre-flop (Pot: 0) ---
+devpatel posts blind (50)
+BigUzi posts blind (100)
+your hand is (Jc Td)
+vxshxl calls 100
+jay calls 100
+youngdesi calls 100
+devpatel raises 200
+BigUzi calls 100
+vxshxl folds
+jay folds
+youngdesi calls 100
+--- flop (Pot: 800) ---
+board: Qs 4c Ah
+devpatel bets 100
+BigUzi raises 200
+youngdesi calls 200
+devpatel calls 100
+--- turn (Pot: 1400) ---
+board: Qs 4c Ah 8h
+devpatel bets 100
+BigUzi calls 100
+youngdesi calls 100
+--- river (Pot: 1700) ---
+board: Qs 4c Ah 8h 6d
+devpatel bets 100
+BigUzi folds
+youngdesi raises 800
+devpatel calls 700
+Total pot: 3300.
+youngdesi wins 3300 with straight eight high
+youngdesi shows hand (5h 7c)
+devpatel mucks.
+
+start of hand #2 Mon Apr 08 2024 02:52:44 GMT+0000 (Coordinated Universal Time)}
+Dealer: devpatel.
+0: youngdesi (6539)
+2: devpatel (6972)
+3: BigUzi (7701)
+4: vxshxl (1819)
+5: jay (6819)
+--- pre-flop (Pot: 0) ---
+BigUzi posts blind (50)
+vxshxl posts blind (100)
+your hand is (8h 8d)
+jay raises 200
+youngdesi calls 200
+devpatel folds
+BigUzi calls 150
+vxshxl folds
+--- flop (Pot: 700) ---
+board: 8c 3c 3d
+BigUzi bets 100
+jay calls 100
+youngdesi calls 100
+--- turn (Pot: 1000) ---
+board: 8c 3c 3d Kh
+BigUzi bets 400
+jay calls 400
+youngdesi calls 400
+--- river (Pot: 2200) ---
+board: 8c 3c 3d Kh 2d
+BigUzi bets 800
+jay calls 800
+youngdesi calls 800
+Total pot: 4600.
+BigUzi wins 4600 with full house eights full of threes
+BigUzi shows hand (8h 8d)
+jay mucks.
+youngdesi mucks.
+
+start of hand #3 Mon Apr 08 2024 02:54:16 GMT+0000 (Coordinated Universal Time)}
+Dealer: BigUzi.
+0: youngdesi (5039)
+2: devpatel (6972)
+3: BigUzi (10801)
+4: vxshxl (1719)
+5: jay (5319)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+jay posts blind (100)
+your hand is (Jd As)
+youngdesi calls 100
+devpatel calls 100
+BigUzi calls 100
+vxshxl calls 50
+jay checks
+--- flop (Pot: 500) ---
+board: Ts 4h 9d
+vxshxl checks
+jay checks
+youngdesi bets 300
+devpatel calls 300
+BigUzi folds
+vxshxl folds
+jay folds
+--- turn (Pot: 1100) ---
+board: Ts 4h 9d Jc
+youngdesi bets 100
+devpatel calls 100
+--- river (Pot: 1300) ---
+board: Ts 4h 9d Jc 2s
+youngdesi bets 300
+devpatel calls 300
+Total pot: 1900.
+youngdesi wins 1900 with two pair tens and nines
+youngdesi shows hand (9h Td)
+devpatel mucks.
+
+start of hand #4 Mon Apr 08 2024 02:55:49 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+0: youngdesi (6139)
+2: devpatel (6172)
+3: BigUzi (10701)
+4: vxshxl (1619)
+5: jay (5219)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+youngdesi posts blind (100)
+your hand is (4s Jd)
+devpatel calls 100
+BigUzi calls 100
+vxshxl folds
+jay calls 50
+youngdesi checks
+--- flop (Pot: 400) ---
+board: 8d 7s 6h
+jay bets 144
+youngdesi calls 144
+devpatel calls 144
+BigUzi folds
+--- turn (Pot: 832) ---
+board: 8d 7s 6h Kd
+jay bets 354
+youngdesi calls 354
+devpatel folds
+--- river (Pot: 1540) ---
+board: 8d 7s 6h Kd Kc
+jay bets 770
+youngdesi folds
+770 returned to jay
+jay wins pot (1540), everyone folded.
+
+start of hand #5 Mon Apr 08 2024 02:57:11 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+0: youngdesi (5541)
+2: devpatel (5928)
+3: BigUzi (10601)
+4: vxshxl (1619)
+5: jay (6161)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+devpatel posts blind (100)
+your hand is (Ah Jc)
+BigUzi calls 100
+vxshxl folds
+jay calls 100
+youngdesi calls 50
+devpatel checks
+--- flop (Pot: 400) ---
+board: 5h 3c Qs
+youngdesi checks
+devpatel checks
+BigUzi checks
+jay checks
+--- turn (Pot: 400) ---
+board: 5h 3c Qs 5c
+youngdesi checks
+devpatel checks
+BigUzi checks
+jay checks
+--- river (Pot: 400) ---
+board: 5h 3c Qs 5c Kc
+youngdesi bets 800
+devpatel calls 800
+BigUzi folds
+jay folds
+Total pot: 2000.
+youngdesi wins 2000 with flush king high
+youngdesi shows hand (2c 6c)
+devpatel mucks.
+devpatel shows (3d)
+devpatel shows (Kh)
+
+start of hand #6 Mon Apr 08 2024 02:58:35 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+0: youngdesi (6641)
+2: devpatel (5028)
+3: BigUzi (10501)
+4: vxshxl (1619)
+5: jay (6061)
+--- pre-flop (Pot: 0) ---
+devpatel posts blind (50)
+BigUzi posts blind (100)
+your hand is (7d Tc)
+vxshxl folds
+jay calls 100
+youngdesi calls 100
+devpatel raises 200
+BigUzi calls 100
+jay calls 100
+youngdesi calls 100
+--- flop (Pot: 800) ---
+board: Jc Th 9h
+devpatel bets 200
+BigUzi folds
+jay folds
+youngdesi calls 200
+--- turn (Pot: 1200) ---
+board: Jc Th 9h Qd
+devpatel bets 100
+youngdesi calls 100
+--- river (Pot: 1400) ---
+board: Jc Th 9h Qd Jd
+devpatel bets 800
+youngdesi folds
+800 returned to devpatel
+devpatel wins pot (1400), everyone folded.
+devpatel shows (Qc)
+devpatel shows (Ks)
+
+start of hand #7 Mon Apr 08 2024 03:00:24 GMT+0000 (Coordinated Universal Time)}
+Dealer: devpatel.
+0: youngdesi (6141)
+2: devpatel (5928)
+3: BigUzi (10301)
+4: vxshxl (1619)
+5: jay (5861)
+--- pre-flop (Pot: 0) ---
+BigUzi posts blind (50)
+vxshxl posts blind (100)
+your hand is (7h Qc)
+jay raises 200
+youngdesi calls 200
+devpatel folds
+BigUzi folds
+vxshxl calls 100
+--- flop (Pot: 650) ---
+board: Ks 8s 2h
+vxshxl checks
+jay bets 325
+youngdesi calls 325
+vxshxl folds
+--- turn (Pot: 1300) ---
+board: Ks 8s 2h 4h
+jay bets 535
+youngdesi calls 535
+--- river (Pot: 2370) ---
+board: Ks 8s 2h 4h Jh
+jay bets 713
+youngdesi folds
+713 returned to jay
+jay wins pot (2370), everyone folded.
+jay shows (5h)
+
+start of hand #8 Mon Apr 08 2024 03:02:20 GMT+0000 (Coordinated Universal Time)}
+Dealer: BigUzi.
+0: youngdesi (5081)
+2: devpatel (5928)
+3: BigUzi (10251)
+4: vxshxl (1419)
+5: jay (7171)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+jay posts blind (100)
+your hand is (Qs Ks)
+youngdesi calls 100
+devpatel folds
+BigUzi calls 100
+vxshxl calls 50
+jay checks
+--- flop (Pot: 400) ---
+board: 7d Jc 2h
+vxshxl checks
+jay bets 169
+youngdesi calls 169
+BigUzi calls 169
+vxshxl calls 169
+--- turn (Pot: 1076) ---
+board: 7d Jc 2h Kd
+vxshxl bets 251
+jay calls 251
+youngdesi folds
+BigUzi calls 251
+--- river (Pot: 1829) ---
+board: 7d Jc 2h Kd 4d
+vxshxl bets 500
+jay folds
+BigUzi calls 500
+Total pot: 2829.
+vxshxl wins 2829 with flush king high
+vxshxl shows hand (6d 5d)
+BigUzi mucks.
+
+start of hand #9 Mon Apr 08 2024 03:04:07 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+0: youngdesi (4812)
+2: devpatel (5928)
+3: BigUzi (9231)
+4: vxshxl (3228)
+5: jay (6651)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+youngdesi posts blind (100)
+your hand is (3s 8c)
+devpatel calls 100
+BigUzi folds
+vxshxl folds
+jay calls 50
+youngdesi checks
+--- flop (Pot: 300) ---
+board: 8h Jh 7s
+jay bets 150
+youngdesi calls 150
+devpatel folds
+--- turn (Pot: 600) ---
+board: 8h Jh 7s Ts
+jay bets 300
+youngdesi calls 300
+--- river (Pot: 1200) ---
+board: 8h Jh 7s Ts 4c
+jay bets 378
+youngdesi calls 378
+Total pot: 1956.
+jay wins 1956 with a pair of jacks
+jay shows hand (Js 2h)
+youngdesi mucks.
+
+start of hand #10 Mon Apr 08 2024 03:05:04 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+0: youngdesi (3884)
+2: devpatel (5828)
+3: BigUzi (9231)
+4: vxshxl (3228)
+5: jay (7679)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+devpatel posts blind (100)
+your hand is (6c 4d)
+BigUzi folds
+vxshxl calls 100
+jay calls 100
+youngdesi calls 50
+devpatel checks
+--- flop (Pot: 400) ---
+board: 5h 9c 9s
+youngdesi checks
+devpatel bets 100
+vxshxl calls 100
+jay folds
+youngdesi calls 100
+--- turn (Pot: 700) ---
+board: 5h 9c 9s 2h
+youngdesi checks
+devpatel bets 100
+vxshxl calls 100
+youngdesi calls 100
+--- river (Pot: 1000) ---
+board: 5h 9c 9s 2h 5c
+youngdesi checks
+devpatel bets 200
+vxshxl folds
+youngdesi folds
+200 returned to devpatel
+devpatel wins pot (1000), everyone folded.
+
+start of hand #11 Mon Apr 08 2024 03:06:38 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+0: youngdesi (3584)
+2: devpatel (6528)
+3: BigUzi (9231)
+4: vxshxl (2928)
+5: jay (7579)
+--- pre-flop (Pot: 0) ---
+devpatel posts blind (50)
+BigUzi posts blind (100)
+your hand is (7d 7c)
+vxshxl raises 200
+jay folds
+youngdesi calls 200
+devpatel folds
+BigUzi calls 100
+--- flop (Pot: 650) ---
+board: 9s 6d 2h
+BigUzi checks
+vxshxl bets 100
+youngdesi calls 100
+BigUzi folds
+--- turn (Pot: 850) ---
+board: 9s 6d 2h Ts
+vxshxl bets 100
+youngdesi raises 200
+vxshxl calls 100
+--- river (Pot: 1250) ---
+board: 9s 6d 2h Ts Ac
+vxshxl bets 100
+youngdesi calls 100
+Total pot: 1450.
+vxshxl wins 1450 with a pair of aces
+vxshxl shows hand (Ad Jh)
+youngdesi mucks.
+
+start of hand #12 Mon Apr 08 2024 03:07:53 GMT+0000 (Coordinated Universal Time)}
+Dealer: devpatel.
+0: youngdesi (2984)
+2: devpatel (6478)
+3: BigUzi (9031)
+4: vxshxl (3778)
+5: jay (7579)
+--- pre-flop (Pot: 0) ---
+BigUzi posts blind (50)
+vxshxl posts blind (100)
+your hand is (Kd 5c)
+jay calls 100
+youngdesi calls 100
+devpatel calls 100
+BigUzi calls 50
+vxshxl checks
+--- flop (Pot: 500) ---
+board: 9d 9s 5d
+BigUzi bets 100
+vxshxl calls 100
+jay calls 100
+youngdesi calls 100
+devpatel calls 100
+--- turn (Pot: 1000) ---
+board: 9d 9s 5d 3s
+BigUzi checks
+vxshxl checks
+jay bets 100
+youngdesi calls 100
+devpatel raises 400
+BigUzi folds
+vxshxl folds
+jay folds
+youngdesi calls 300
+--- river (Pot: 1900) ---
+board: 9d 9s 5d 3s 4d
+youngdesi checks
+devpatel bets 100
+youngdesi calls 100
+Total pot: 2100.
+devpatel wins 2100 with two pair nines and threes
+devpatel shows hand (3d 2s)
+youngdesi mucks.
+
+start of hand #13 Mon Apr 08 2024 03:09:46 GMT+0000 (Coordinated Universal Time)}
+Dealer: BigUzi.
+0: youngdesi (2284)
+2: devpatel (7878)
+3: BigUzi (8831)
+4: vxshxl (3578)
+5: jay (7279)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+jay posts blind (100)
+your hand is (9c 5s)
+youngdesi calls 100
+devpatel calls 100
+BigUzi folds
+vxshxl raises 200
+jay calls 100
+youngdesi calls 100
+devpatel calls 100
+--- flop (Pot: 800) ---
+board: 9h 5h 7d
+vxshxl bets 100
+jay folds
+youngdesi calls 100
+devpatel calls 100
+--- turn (Pot: 1100) ---
+board: 9h 5h 7d 7h
+vxshxl bets 251
+youngdesi calls 251
+devpatel calls 251
+--- river (Pot: 1853) ---
+board: 9h 5h 7d 7h 4s
+vxshxl checks
+youngdesi checks
+devpatel bets 250
+vxshxl folds
+youngdesi calls 250
+Total pot: 2353.
+devpatel wins 2353 with full house sevens full of fours
+devpatel shows hand (4c 7c)
+youngdesi mucks.
+
+start of hand #14 Mon Apr 08 2024 03:11:36 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+0: youngdesi (1483)
+2: devpatel (9430)
+3: BigUzi (8831)
+4: vxshxl (3027)
+5: jay (7079)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+youngdesi posts blind (100)
+your hand is (8c 9d)
+devpatel calls 100
+BigUzi calls 100
+vxshxl calls 100
+jay calls 50
+youngdesi checks
+--- flop (Pot: 500) ---
+board: 9c Ts 2h
+jay bets 513
+youngdesi folds
+devpatel folds
+BigUzi folds
+vxshxl folds
+513 returned to jay
+jay wins pot (500), everyone folded.
+
+start of hand #15 Mon Apr 08 2024 03:12:26 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+0: youngdesi (1383)
+2: devpatel (9330)
+3: BigUzi (8731)
+4: vxshxl (2927)
+5: jay (7479)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+devpatel posts blind (100)
+your hand is (7d 3s)
+BigUzi calls 100
+vxshxl calls 100
+jay calls 100
+youngdesi calls 50
+devpatel raises 200
+BigUzi calls 100
+vxshxl calls 100
+jay calls 100
+youngdesi calls 100
+--- flop (Pot: 1000) ---
+board: Th Jh 4c
+youngdesi checks
+devpatel bets 200
+BigUzi folds
+vxshxl calls 200
+jay calls 200
+youngdesi calls 200
+--- turn (Pot: 1800) ---
+board: Th Jh 4c Ac
+youngdesi checks
+devpatel bets 100
+vxshxl calls 100
+jay calls 100
+youngdesi calls 100
+--- river (Pot: 2200) ---
+board: Th Jh 4c Ac Ks
+youngdesi checks
+devpatel checks
+vxshxl bets 101
+jay raises 738
+youngdesi folds
+devpatel calls 738
+vxshxl raises 2427
+jay folds
+devpatel calls 1689
+devpatel shows hand (Ah 9d)
+vxshxl shows hand (3d Qc)
+Total pot: 7792.
+vxshxl wins 7792 with straight ace high
+vxshxl shows hand (3d Qc)
+devpatel mucks.
+
+start of hand #16 Mon Apr 08 2024 03:15:15 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+0: youngdesi (883)
+2: devpatel (6403)
+3: BigUzi (8531)
+4: vxshxl (7792)
+5: jay (6241)
+--- pre-flop (Pot: 0) ---
+devpatel posts blind (50)
+BigUzi posts blind (100)
+your hand is (9d Jd)
+vxshxl folds
+jay raises 200
+youngdesi folds
+devpatel calls 150
+BigUzi calls 100
+--- flop (Pot: 600) ---
+board: 8c Jh Kd
