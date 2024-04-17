@@ -27,22 +27,22 @@ To run this tool, you need Python installed on your system. The script is execut
 
 ## Example Output
 
-  Enter the number of hands played: 40
-  
-  BigUzi: Wins: 0, Folded: 13, Raised: 2, Average Bet: 167.86, Largest Win: 0<br />
-  vidit: Wins: 4, Folded: 21, Raised: 3, Average Bet: 186.93, Largest Win: 6237<br />
-  the.trij: Wins: 5, Folded: 28, Raised: 2, Average Bet: 152.11, Largest Win: 3118<br />
-  youngdesi: Wins: 6, Folded: 28, Raised: 5, Average Bet: 146.15, Largest Win: 4822<br />
-  vxshxl: Wins: 5, Folded: 22, Raised: 9, Average Bet: 153.13, Largest Win: 2304<br />
-  Zigenheimer: Wins: 5, Folded: 26, Raised: 1, Average Bet: 149.93, Largest Win: 3820<br />
-  jay: Wins: 6, Folded: 25, Raised: 6, Average Bet: 164.58, Largest Win: 4067<br />
-  
-  Final Payouts (in $):<br />
-  vidit: $6.62<br />
-  the.trij: $3.37<br />
-  youngdesi: $9.51<br />
-  vxshxl: $3.24<br />
-  Zigenheimer: $2.05<br />
-  jay: $10.21<br />
-  
-  Average Pot Size for the game: $1676.47
+Enter the number of hands played: 40<br />
+
+BigUzi: Wins: 0, Folded: 13, Raised: 2, Average Bet: 167.86 chips, Largest Win: 0 chips<br />
+vidit: Wins: 8, Folded: 21, Raised: 3, Average Bet: 186.93 chips, Largest Win: 6237 chips<br />
+the.trij: Wins: 6, Folded: 28, Raised: 2, Average Bet: 152.11 chips, Largest Win: 3118 chips<br />
+youngdesi: Wins: 6, Folded: 28, Raised: 5, Average Bet: 146.15 chips, Largest Win: 4822 chips<br />
+vxshxl: Wins: 8, Folded: 22, Raised: 9, Average Bet: 153.13 chips, Largest Win: 2304 chips<br />
+Zigenheimer: Wins: 5, Folded: 26, Raised: 1, Average Bet: 149.93 chips, Largest Win: 3820 chips<br />
+jay: Wins: 9, Folded: 25, Raised: 6, Average Bet: 164.58 chips, Largest Win: 4067 chips<br />
+
+Average Pot Size for the game: 1676.47<br />
+
+Final Payouts (in $):<br />
+vidit: $6.62<br />
+the.trij: $3.37<br />
+youngdesi: $9.51<br />
+vxshxl: $3.23<br />
+Zigenheimer: $2.05<br />
+jay: $10.21<br />
