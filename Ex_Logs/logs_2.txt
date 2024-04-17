@@ -1,0 +1,1865 @@
+hostOnly changed to yes
+timeLimit changed to yes
+timeBank changed to 30
+tags changed
+clockDuration changed to 30
+minBuyIn changed to 5000
+maxBuyIn changed to 5000
+allowedGames changed
+maxPlayers changed to 6
+allowedGames changed
+allowedGames changed
+maxPlayers changed to 9
+jay adds 5000 chips.
+vidit adds 5000 chips.
+Zigenheimer adds 5000 chips.
+BigUzi adds 5000 chips.
+vxshxl adds 5000 chips.
+the.trij left.
+youngdesi adds 5000 chips.
+the.trij left.
+the.trij left.
+the.trij adds 5000 chips.
+
+start of hand #1 Mon Apr 15 2024 01:52:47 GMT+0000 (Coordinated Universal Time)}
+Dealer: BigUzi.
+0: BigUzi (5000)
+2: vidit (5000)
+3: the.trij (5000)
+5: youngdesi (5000)
+6: vxshxl (5000)
+7: Zigenheimer (5000)
+8: jay (5000)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+your hand is (7d 6h)
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+BigUzi folds
+vidit calls 50
+the.trij checks
+--- flop (Pot: 600) ---
+board: Qh Qd 7s
+vidit checks
+the.trij bets 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer folds
+jay folds
+vidit folds
+--- turn (Pot: 900) ---
+board: Qh Qd 7s Qs
+the.trij bets 100
+youngdesi folds
+vxshxl calls 100
+--- river (Pot: 1100) ---
+board: Qh Qd 7s Qs 6c
+the.trij checks
+vxshxl bets 100
+the.trij folds
+100 returned to vxshxl
+vxshxl wins pot (1100), everyone folded.
+
+start of hand #2 Mon Apr 15 2024 01:55:26 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+0: BigUzi (5000)
+2: vidit (4900)
+3: the.trij (4700)
+5: youngdesi (4800)
+6: vxshxl (5800)
+7: Zigenheimer (4900)
+8: jay (4900)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+your hand is (Qd Ah)
+vxshxl folds
+Zigenheimer calls 100
+jay folds
+BigUzi calls 100
+vidit folds
+the.trij calls 50
+youngdesi checks
+--- flop (Pot: 400) ---
+board: 2d 3c Jc
+the.trij checks
+youngdesi checks
+Zigenheimer checks
+BigUzi checks
+--- turn (Pot: 400) ---
+board: 2d 3c Jc 2c
+the.trij bets 100
+youngdesi calls 100
+Zigenheimer folds
+BigUzi folds
+--- river (Pot: 600) ---
+board: 2d 3c Jc 2c 4s
+the.trij checks
+youngdesi checks
+Total pot: 600.
+the.trij wins 600 with two pair tens and twos
+the.trij shows hand (Td Ts)
+youngdesi mucks.
+
+start of hand #3 Mon Apr 15 2024 01:56:56 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+0: BigUzi (4900)
+2: vidit (4900)
+3: the.trij (5100)
+5: youngdesi (4600)
+6: vxshxl (5800)
+7: Zigenheimer (4800)
+8: jay (4900)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
+your hand is (5s Qd)
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 50
+vxshxl checks
+--- flop (Pot: 700) ---
+board: Jh Ts 9d
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+BigUzi checks
+vidit bets 100
+the.trij folds
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer folds
+jay folds
+BigUzi calls 100
+--- turn (Pot: 1100) ---
+board: Jh Ts 9d 9c
+youngdesi checks
+vxshxl checks
+BigUzi checks
+vidit bets 100
+youngdesi calls 100
+vxshxl folds
+BigUzi calls 100
+--- river (Pot: 1400) ---
+board: Jh Ts 9d 9c Qc
+youngdesi checks
+BigUzi checks
+vidit bets 442
+youngdesi folds
+BigUzi calls 442
+Total pot: 2284.
+vidit wins 2284 with straight queen high
+vidit shows hand (8s 4d)
+BigUzi mucks.
+
+start of hand #4 Mon Apr 15 2024 01:59:53 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+0: BigUzi (4158)
+2: vidit (6442)
+3: the.trij (5000)
+5: youngdesi (4300)
+6: vxshxl (5600)
+7: Zigenheimer (4700)
+8: jay (4800)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+Zigenheimer posts blind (100)
+your hand is (Qs 2s)
+jay calls 100
+BigUzi calls 100
+vidit folds
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 50
+Zigenheimer checks
+--- flop (Pot: 600) ---
+board: Tc 9h 7s
+vxshxl bets 100
+Zigenheimer calls 100
+jay folds
+BigUzi calls 100
+the.trij folds
+youngdesi calls 100
+--- turn (Pot: 1000) ---
+board: Tc 9h 7s 5s
+vxshxl checks
+Zigenheimer checks
+BigUzi bets 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer folds
+--- river (Pot: 1300) ---
+board: Tc 9h 7s 5s 4h
+vxshxl checks
+BigUzi checks
+youngdesi checks
+Total pot: 1300.
+youngdesi wins 1300 with a pair of fives
+vxshxl shows hand (3h Ac)
+BigUzi mucks.
+youngdesi shows hand (5h Jc)
+
+start of hand #5 Mon Apr 15 2024 02:01:57 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+0: BigUzi (3858)
+2: vidit (6442)
+3: the.trij (4900)
+5: youngdesi (5300)
+6: vxshxl (5300)
+7: Zigenheimer (4500)
+8: jay (4700)
+--- pre-flop (Pot: 0) ---
+Zigenheimer posts blind (50)
+jay posts blind (100)
+your hand is (8h 7d)
+BigUzi calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 50
+jay checks
+--- flop (Pot: 700) ---
+board: 9s 3h 9h
+Zigenheimer checks
+jay bets 149
+BigUzi folds
+vidit folds
+the.trij calls 149
+youngdesi folds
+vxshxl calls 149
+Zigenheimer calls 149
+--- turn (Pot: 1296) ---
+board: 9s 3h 9h Js
+Zigenheimer checks
+jay bets 144
+the.trij folds
+vxshxl folds
+Zigenheimer calls 144
+--- river (Pot: 1584) ---
+board: 9s 3h 9h Js Qs
+Zigenheimer checks
+jay checks
+Total pot: 1584.
+jay wins 1584 with two pair nines and threes
+Zigenheimer shows hand (Ks Ac)
+jay shows hand (3c 7c)
+
+start of hand #6 Mon Apr 15 2024 02:03:54 GMT+0000 (Coordinated Universal Time)}
+Dealer: Zigenheimer.
+0: BigUzi (3758)
+2: vidit (6342)
+3: the.trij (4651)
+5: youngdesi (5200)
+6: vxshxl (5051)
+7: Zigenheimer (4107)
+8: jay (5891)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+BigUzi posts blind (100)
+your hand is (6d 8d)
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 100
+jay folds
+BigUzi checks
+--- flop (Pot: 550) ---
+board: 4h 6c Js
+BigUzi bets 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+Zigenheimer calls 100
+--- turn (Pot: 1050) ---
+board: 4h 6c Js 9s
+BigUzi checks
+vidit bets 100
+the.trij calls 100
+youngdesi folds
+Zigenheimer calls 100
+BigUzi folds
+--- river (Pot: 1350) ---
+board: 4h 6c Js 9s 3d
+vidit bets 200
+the.trij calls 200
+Zigenheimer calls 200
+Total pot: 1950.
+the.trij wins 1950 with a pair of jacks
+vidit shows hand (Kh 2c)
+the.trij shows hand (Jc Ks)
+Zigenheimer mucks.
+
+start of hand #7 Mon Apr 15 2024 02:05:51 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+0: BigUzi (3558)
+2: vidit (5842)
+3: the.trij (6101)
+5: youngdesi (5000)
+6: vxshxl (5051)
+7: Zigenheimer (3607)
+8: jay (5841)
+--- pre-flop (Pot: 0) ---
+BigUzi posts blind (50)
+vidit posts blind (100)
+your hand is (8c Qs)
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 50
+vidit checks
+--- flop (Pot: 700) ---
+board: 4d 3c 2d
+BigUzi checks
+vidit checks
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+--- turn (Pot: 700) ---
+board: 4d 3c 2d Tc
+BigUzi checks
+vidit checks
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay bets 100
+BigUzi folds
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+--- river (Pot: 1300) ---
+board: 4d 3c 2d Tc 6c
+vidit checks
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+Total pot: 1300.
+the.trij wins 1300 with flush queen high
+vidit shows hand (Js 9d)
+the.trij shows hand (Qc 7c)
+youngdesi mucks.
+vxshxl mucks.
+Zigenheimer mucks.
+jay mucks.
+vxshxl shows (4c)
+
+start of hand #8 Mon Apr 15 2024 02:07:31 GMT+0000 (Coordinated Universal Time)}
+Dealer: BigUzi.
+0: BigUzi (3458)
+2: vidit (5642)
+3: the.trij (7201)
+5: youngdesi (4800)
+6: vxshxl (4851)
+7: Zigenheimer (3407)
+8: jay (5641)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+your hand is (8d Ac)
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit folds
+the.trij checks
+--- flop (Pot: 650) ---
+board: 2d 4h 9h
+the.trij bets 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer folds
+jay calls 100
+BigUzi folds
+--- turn (Pot: 1050) ---
+board: 2d 4h 9h 2h
+the.trij checks
+youngdesi checks
+vxshxl bets 100
+jay raises 317
+the.trij raises 534
+youngdesi folds
+vxshxl folds
+jay folds
+217 returned to the.trij
+the.trij wins pot (1784), everyone folded.
+the.trij shows (2c)
+the.trij shows (7h)
+
+start of hand #9 Mon Apr 15 2024 02:09:14 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+0: BigUzi (3358)
+2: vidit (5592)
+3: the.trij (8468)
+5: youngdesi (4600)
+6: vxshxl (4551)
+7: Zigenheimer (3307)
+8: jay (5124)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+your hand is (9s 9c)
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit calls 100
+the.trij calls 50
+youngdesi checks
+--- flop (Pot: 700) ---
+board: Jd 3d 4h
+the.trij checks
+youngdesi checks
+vxshxl bets 100
+Zigenheimer calls 100
+jay raises 404
+BigUzi folds
+vidit calls 404
+the.trij folds
+youngdesi calls 404
+vxshxl calls 304
+Zigenheimer calls 304
+--- turn (Pot: 2720) ---
+board: Jd 3d 4h Td
+youngdesi checks
+vxshxl bets 100
+Zigenheimer calls 100
+jay calls 100
+vidit calls 100
+youngdesi calls 100
+--- river (Pot: 3220) ---
+board: Jd 3d 4h Td Ts
+youngdesi checks
+vxshxl bets 200
+Zigenheimer calls 200
+jay calls 200
+vidit folds
+youngdesi folds
+Total pot: 3820.
+Zigenheimer wins 3820 with two pair jacks and tens
+vxshxl shows hand (7h Jc)
+Zigenheimer shows hand (Kc Js)
+jay mucks.
+jay shows (Jh)
+jay shows (6h)
+
+start of hand #10 Mon Apr 15 2024 02:11:40 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+0: BigUzi (3258)
+2: vidit (4988)
+3: the.trij (8368)
+5: youngdesi (3996)
+6: vxshxl (3747)
+7: Zigenheimer (6323)
+8: jay (4320)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
+your hand is (8h Ts)
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 50
+vxshxl checks
+--- flop (Pot: 700) ---
+board: 7s 5h 2c
+youngdesi bets 100
+vxshxl folds
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit calls 100
+the.trij calls 100
+--- turn (Pot: 1300) ---
+board: 7s 5h 2c Ks
+youngdesi bets 200
+Zigenheimer folds
+jay folds
+BigUzi folds
+vidit calls 200
+the.trij folds
+--- river (Pot: 1700) ---
+board: 7s 5h 2c Ks 6c
+youngdesi bets 500
+vidit calls 500
+Total pot: 2700.
+youngdesi wins 2700 with two pair sevens and fives
+youngdesi shows hand (7c 5c)
+vidit mucks.
+
+start of hand #11 Mon Apr 15 2024 02:13:53 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+0: BigUzi (3058)
+2: vidit (4088)
+3: the.trij (8168)
+5: youngdesi (5796)
+6: vxshxl (3647)
+7: Zigenheimer (6123)
+8: jay (4120)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+Zigenheimer posts blind (100)
+your hand is (4c Jh)
+jay calls 100
+BigUzi calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl raises 200
+Zigenheimer calls 100
+jay folds
+BigUzi calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+--- flop (Pot: 1300) ---
+board: Kc Qc Kh
+vxshxl bets 100
+Zigenheimer calls 100
+BigUzi folds
+vidit calls 100
+the.trij raises 200
+youngdesi folds
+vxshxl calls 100
+vxshxl started vote to kick the.trij
+vxshxl voted yes
+Zigenheimer calls 100
+vidit calls 100
+--- turn (Pot: 2100) ---
+board: Kc Qc Kh 3s
+jay voted no
+vote for removing the.trij has failed.
+vxshxl checks
+Zigenheimer checks
+vidit bets 509
+the.trij calls 509
+vxshxl folds
+Zigenheimer folds
+--- river (Pot: 3118) ---
+board: Kc Qc Kh 3s 8c
+the.trij shows (Kd)
+the.trij shows (Qd)
+vidit checks
+the.trij checks
+Total pot: 3118.
+the.trij wins 3118 with full house kings full of queens
+vidit shows hand (Qs 3d)
+the.trij shows hand (Qd Kd)
+
+start of hand #12 Mon Apr 15 2024 02:16:43 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+0: BigUzi (2858)
+2: vidit (3179)
+3: the.trij (10377)
+5: youngdesi (5596)
+6: vxshxl (3247)
+7: Zigenheimer (5723)
+8: jay (4020)
+--- pre-flop (Pot: 0) ---
+Zigenheimer posts blind (50)
+jay posts blind (100)
+your hand is (8c Jc)
+BigUzi raises 200
+vidit folds
+the.trij folds
+youngdesi folds
+vxshxl raises 300
+Zigenheimer calls 250
+jay folds
+BigUzi calls 100
+--- flop (Pot: 1000) ---
+board: 5d 5h 4d
+Zigenheimer bets 100
+BigUzi folds
+vxshxl calls 100
+--- turn (Pot: 1200) ---
+board: 5d 5h 4d As
+Zigenheimer bets 100
+vxshxl raises 200
+Zigenheimer raises 300
+vxshxl calls 100
+--- river (Pot: 1800) ---
+board: 5d 5h 4d As 9c
+Zigenheimer checks
+vxshxl checks
+Total pot: 1800.
+Zigenheimer wins 1800 with two pair kings and fives
+Zigenheimer shows hand (Kd Kh)
+vxshxl mucks.
+
+start of hand #13 Mon Apr 15 2024 02:18:16 GMT+0000 (Coordinated Universal Time)}
+Dealer: Zigenheimer.
+0: BigUzi (2558)
+2: vidit (3179)
+3: the.trij (10377)
+5: youngdesi (5596)
+6: vxshxl (2547)
+7: Zigenheimer (6823)
+8: jay (3920)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+BigUzi posts blind (100)
+your hand is (3h 2h)
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 50
+BigUzi checks
+--- flop (Pot: 700) ---
+board: 6c Js 4d
+jay checks
+BigUzi checks
+vidit bets 100
+the.trij folds
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer folds
+jay folds
+BigUzi calls 100
+--- turn (Pot: 1100) ---
+board: 6c Js 4d 6h
+BigUzi checks
+vidit bets 100
+youngdesi folds
+vxshxl raises 200
+BigUzi folds
+vidit calls 100
+--- river (Pot: 1500) ---
+board: 6c Js 4d 6h 7d
+vidit bets 402
+vxshxl calls 402
+Total pot: 2304.
+vxshxl wins 2304 with full house fours full of sixes
+vidit shows hand (8c Qc)
+vxshxl shows hand (4c 4h)
+
+start of hand #14 Mon Apr 15 2024 02:19:55 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+0: BigUzi (2358)
+2: vidit (2377)
+3: the.trij (10277)
+5: youngdesi (5396)
+6: vxshxl (4049)
+7: Zigenheimer (6723)
+8: jay (3820)
+--- pre-flop (Pot: 0) ---
+BigUzi posts blind (50)
+vidit posts blind (100)
+your hand is (2d 3d)
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 100
+jay calls 100
+BigUzi folds
+vidit checks
+--- flop (Pot: 550) ---
+board: 4h 3s 6d
+vidit bets 201
+the.trij folds
+youngdesi calls 201
+Zigenheimer calls 201
+jay folds
+--- turn (Pot: 1153) ---
+board: 4h 3s 6d Ts
+vidit bets 199
+youngdesi folds
+Zigenheimer calls 199
+--- river (Pot: 1551) ---
+board: 4h 3s 6d Ts As
+vidit bets 296
+Zigenheimer folds
+296 returned to vidit
+vidit wins pot (1551), everyone folded.
+
+start of hand #15 Mon Apr 15 2024 02:23:06 GMT+0000 (Coordinated Universal Time)}
+Dealer: BigUzi.
+0: BigUzi (2308)
+2: vidit (3428)
+3: the.trij (10177)
+5: youngdesi (5095)
+6: vxshxl (4049)
+7: Zigenheimer (6223)
+8: jay (3720)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+your hand is (Ah Th)
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit calls 50
+the.trij checks
+--- flop (Pot: 700) ---
+board: 9s Kc 9c
+vidit checks
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+BigUzi checks
+--- turn (Pot: 700) ---
+board: 9s Kc 9c 8c
+vidit checks
+the.trij bets 100
+youngdesi folds
+vxshxl calls 100
+Zigenheimer folds
+jay folds
+BigUzi folds
+vidit calls 100
+--- river (Pot: 1000) ---
+board: 9s Kc 9c 8c 8h
+vidit checks
+the.trij checks
+vxshxl bets 301
+vidit folds
+the.trij folds
+301 returned to vxshxl
+vxshxl wins pot (1000), everyone folded.
+vxshxl shows (9d)
+vxshxl shows (6c)
+
+start of hand #16 Mon Apr 15 2024 02:25:00 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+0: BigUzi (2208)
+2: vidit (3228)
+3: the.trij (9977)
+5: youngdesi (4995)
+6: vxshxl (4849)
+7: Zigenheimer (6123)
+8: jay (3620)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+your hand is (9s Ad)
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+BigUzi calls 100
+vidit calls 100
+the.trij calls 50
+youngdesi checks
+--- flop (Pot: 700) ---
+board: 8d 9h 8s
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+BigUzi bets 100
+vidit raises 200
+the.trij calls 200
+youngdesi folds
+vxshxl folds
+Zigenheimer calls 200
+jay folds
+BigUzi calls 100
+--- turn (Pot: 1500) ---
+board: 8d 9h 8s 9c
+the.trij checks
+Zigenheimer checks
+BigUzi checks
+vidit bets 779
+the.trij calls 779
+Zigenheimer folds
+BigUzi calls 779
+--- river (Pot: 3837) ---
+board: 8d 9h 8s 9c Jd
+the.trij checks
+BigUzi bets 800
+vidit calls 800
+the.trij calls 800
+Total pot: 6237.
+vidit wins 6237 with full house nines full of jacks
+BigUzi shows hand (9s Ad)
+vidit shows hand (Js 9d)
+the.trij mucks.
+the.trij shows (Kh)
+the.trij shows (3s)
+
+start of hand #17 Mon Apr 15 2024 02:27:22 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+0: BigUzi (329)
+2: vidit (7586)
+3: the.trij (8098)
+5: youngdesi (4895)
+6: vxshxl (4749)
+7: Zigenheimer (5823)
+8: jay (3520)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
+your hand is (5c Jd)
+Zigenheimer calls 100
+jay calls 100
+BigUzi raises 200
+vidit folds
+the.trij calls 200
+youngdesi calls 150
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+--- flop (Pot: 1200) ---
+board: Qh Jc 3c
+youngdesi checks
+vxshxl bets 100
+Zigenheimer calls 100
+jay raises 235
+BigUzi calls 129
+the.trij folds
+youngdesi calls 235
+vxshxl calls 135
+Zigenheimer calls 135
+--- turn (Pot: 2269) ---
+board: Qh Jc 3c Kd
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay bets 342
+youngdesi folds
+vxshxl calls 342
+Zigenheimer folds
+--- river (Pot: 2953) ---
+board: Qh Jc 3c Kd 4s
+vxshxl checks
+jay bets 557
+vxshxl calls 557
+Total pot: 4067.
+jay wins 4067 with three of a kind threes
+jay shows hand (3d 3s)
+BigUzi mucks.
+vxshxl mucks.
+vxshxl shows (Jh)
+
+start of hand #18 Mon Apr 15 2024 02:31:15 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+2: vidit (7586)
+3: the.trij (7898)
+5: youngdesi (4460)
+6: vxshxl (3415)
+7: Zigenheimer (5388)
+8: jay (6253)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+Zigenheimer posts blind (100)
+jay calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 50
+Zigenheimer checks
+--- flop (Pot: 600) ---
+board: 8h Ac Td
+vxshxl checks
+Zigenheimer checks
+jay bets 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer folds
+--- turn (Pot: 1000) ---
+board: 8h Ac Td 5h
+jay bets 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+--- river (Pot: 1400) ---
+board: 8h Ac Td 5h 6c
+jay bets 770
+vidit folds
+BigUzi left.
+the.trij folds
+youngdesi folds
+770 returned to jay
+jay wins pot (1400), everyone folded.
+jay shows (6h)
+jay shows (Ts)
+
+start of hand #19 Mon Apr 15 2024 02:33:36 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+2: vidit (7286)
+3: the.trij (7598)
+5: youngdesi (4160)
+6: vxshxl (3315)
+7: Zigenheimer (5288)
+8: jay (7353)
+--- pre-flop (Pot: 0) ---
+Zigenheimer posts blind (50)
+jay posts blind (100)
+vidit folds
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 50
+jay checks
+--- flop (Pot: 400) ---
+board: Ac 8c 8s
+Zigenheimer checks
+jay bets 100
+the.trij folds
+youngdesi folds
+Zigenheimer folds
+100 returned to jay
+jay wins pot (400), everyone folded.
+jay shows (Ks)
+jay shows (8h)
+
+start of hand #20 Mon Apr 15 2024 02:34:52 GMT+0000 (Coordinated Universal Time)}
+Dealer: Zigenheimer.
+2: vidit (7286)
+3: the.trij (7498)
+5: youngdesi (4060)
+6: vxshxl (3315)
+7: Zigenheimer (5188)
+8: jay (7653)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+vidit posts blind (100)
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 50
+vidit checks
+--- flop (Pot: 600) ---
+board: 5s 2c As
+jay bets 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 100
+--- turn (Pot: 1100) ---
+board: 5s 2c As Tc
+jay bets 100
+vidit raises 200
+the.trij calls 200
+youngdesi folds
+Zigenheimer folds
+jay calls 100
+--- river (Pot: 1700) ---
+board: 5s 2c As Tc 6h
+jay checks
+vidit checks
+the.trij checks
+Total pot: 1700.
+jay wins 1700 with a pair of jacks
+jay shows hand (Jh Jd)
+vidit mucks.
+the.trij mucks.
+vidit shows (3s)
+vidit shows (3d)
+the.trij shows (Qd)
+the.trij shows (2h)
+
+start of hand #21 Mon Apr 15 2024 02:36:42 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+2: vidit (6886)
+3: the.trij (7098)
+5: youngdesi (3860)
+6: vxshxl (3215)
+7: Zigenheimer (4988)
+8: jay (8953)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+vidit calls 50
+the.trij checks
+--- flop (Pot: 600) ---
+board: Jh Ts 8h
+vidit bets 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay raises 344
+vidit calls 244
+the.trij folds
+youngdesi calls 244
+vxshxl calls 244
+Zigenheimer calls 244
+--- turn (Pot: 2420) ---
+board: Jh Ts 8h Ks
+vidit bets 100
+youngdesi raises 200
+vxshxl folds
+Zigenheimer calls 200
+jay calls 200
+vidit calls 100
+--- river (Pot: 3220) ---
+board: Jh Ts 8h Ks 6s
+vidit bets 100
+youngdesi raises 500
+Zigenheimer calls 500
+jay calls 500
+vidit folds
+Total pot: 4820.
+youngdesi wins 4820 with straight ace high
+youngdesi shows hand (Ad Qh)
+Zigenheimer mucks.
+jay mucks.
+jay shows (Th)
+jay shows (Jc)
+Zigenheimer shows (6d)
+Zigenheimer shows (Js)
+
+start of hand #22 Mon Apr 15 2024 02:38:45 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+2: vidit (6142)
+3: the.trij (6898)
+5: youngdesi (7536)
+6: vxshxl (2771)
+7: Zigenheimer (3844)
+8: jay (7809)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+vidit calls 100
+the.trij calls 50
+youngdesi checks
+--- flop (Pot: 600) ---
+board: 2d Qc Td
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+vidit bets 244
+the.trij folds
+youngdesi calls 244
+vxshxl calls 244
+Zigenheimer calls 244
+jay folds
+--- turn (Pot: 1576) ---
+board: 2d Qc Td 9h
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+vidit bets 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer folds
+--- river (Pot: 1876) ---
+board: 2d Qc Td 9h Jc
+youngdesi checks
+vxshxl checks
+vidit checks
+Total pot: 1876.
+vidit wins 1876 with a pair of queens
+youngdesi shows hand (Jd 4d)
+vxshxl mucks.
+vidit shows hand (Qh 3h)
+vxshxl shows (Th)
+vxshxl shows (5h)
+
+start of hand #23 Mon Apr 15 2024 02:41:10 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+2: vidit (7574)
+3: the.trij (6798)
+5: youngdesi (7092)
+6: vxshxl (2327)
+7: Zigenheimer (3500)
+8: jay (7709)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
+Zigenheimer calls 100
+jay calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 50
+vxshxl checks
+--- flop (Pot: 600) ---
+board: Th 2c Ac
+youngdesi checks
+vxshxl bets 100
+Zigenheimer folds
+jay raises 200
+vidit folds
+the.trij folds
+youngdesi folds
+vxshxl calls 100
+--- turn (Pot: 1000) ---
+board: Th 2c Ac 8c
+vxshxl bets 251
+jay raises 787
+vxshxl folds
+536 returned to jay
+jay wins pot (1502), everyone folded.
+jay shows (Td)
+jay shows (2d)
+
+start of hand #24 Mon Apr 15 2024 02:42:15 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+2: vidit (7474)
+3: the.trij (6698)
+5: youngdesi (6992)
+6: vxshxl (1776)
+7: Zigenheimer (3400)
+8: jay (8660)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+Zigenheimer posts blind (100)
+jay calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 50
+Zigenheimer checks
+--- flop (Pot: 600) ---
+board: Kd 5c 5d
+vxshxl checks
+Zigenheimer checks
+jay bets 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 100
+--- turn (Pot: 1100) ---
+board: Kd 5c 5d 7s
+Zigenheimer checks
+jay checks
+vidit checks
+the.trij checks
+youngdesi checks
+--- river (Pot: 1100) ---
+board: Kd 5c 5d 7s 8h
+Zigenheimer checks
+jay bets 213
+vidit calls 213
+the.trij calls 213
+youngdesi folds
+Zigenheimer folds
+Total pot: 1739.
+jay wins 1739 with two pair kings and fives
+jay shows hand (9h Ks)
+vidit mucks.
+the.trij mucks.
+
+start of hand #25 Mon Apr 15 2024 02:44:04 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+2: vidit (7061)
+3: the.trij (6285)
+5: youngdesi (6792)
+6: vxshxl (1676)
+7: Zigenheimer (3200)
+8: jay (9986)
+--- pre-flop (Pot: 0) ---
+Zigenheimer posts blind (50)
+jay posts blind (100)
+vidit calls 100
+the.trij calls 100
+youngdesi folds
+vxshxl folds
+Zigenheimer folds
+jay checks
+--- flop (Pot: 350) ---
+board: Ts 6h 2h
+jay checks
+vidit checks
+the.trij checks
+--- turn (Pot: 350) ---
+board: Ts 6h 2h 8d
+jay checks
+vidit checks
+the.trij checks
+--- river (Pot: 350) ---
+board: Ts 6h 2h 8d 5d
+jay bets 100
+vidit raises 550
+the.trij folds
+jay folds
+450 returned to vidit
+vidit wins pot (550), everyone folded.
+
+start of hand #26 Mon Apr 15 2024 02:45:31 GMT+0000 (Coordinated Universal Time)}
+Dealer: Zigenheimer.
+2: vidit (7411)
+3: the.trij (6185)
+5: youngdesi (6792)
+6: vxshxl (1676)
+7: Zigenheimer (3150)
+8: jay (9786)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+vidit posts blind (100)
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 50
+vidit checks
+--- flop (Pot: 600) ---
+board: Ts 3d Tc
+jay checks
+vidit checks
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+--- turn (Pot: 600) ---
+board: Ts 3d Tc 8h
+jay bets 100
+vidit folds
+the.trij folds
+youngdesi folds
+vxshxl raises 200
+Zigenheimer calls 200
+jay folds
+--- river (Pot: 1100) ---
+board: Ts 3d Tc 8h 3h
+vxshxl bets 301
+Zigenheimer folds
+301 returned to vxshxl
+vxshxl wins pot (1100), everyone folded.
+vxshxl shows (3c)
+vxshxl shows (Kd)
+
+start of hand #27 Mon Apr 15 2024 02:47:22 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+2: vidit (7311)
+3: the.trij (6085)
+5: youngdesi (6692)
+6: vxshxl (2476)
+7: Zigenheimer (2850)
+8: jay (9586)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+youngdesi calls 100
+vxshxl folds
+Zigenheimer folds
+jay calls 100
+vidit calls 50
+the.trij checks
+--- flop (Pot: 400) ---
+board: Kc 3d Kh
+vidit checks
+the.trij checks
+youngdesi checks
+jay checks
+--- turn (Pot: 400) ---
+board: Kc 3d Kh 7h
+vidit bets 183
+the.trij calls 183
+youngdesi folds
+jay folds
+--- river (Pot: 766) ---
+board: Kc 3d Kh 7h 7d
+vidit bets 790
+the.trij calls 790
+Total pot: 2346.
+vidit wins 2346 with full house sevens full of kings
+vidit shows hand (7s 4h)
+the.trij mucks.
+the.trij shows (8s)
+
+start of hand #28 Mon Apr 15 2024 02:48:46 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+2: vidit (8584)
+3: the.trij (5012)
+5: youngdesi (6592)
+6: vxshxl (2476)
+7: Zigenheimer (2850)
+8: jay (9486)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+vxshxl raises 200
+Zigenheimer calls 200
+jay folds
+vidit folds
+the.trij folds
+youngdesi calls 100
+--- flop (Pot: 650) ---
+board: 2d 8s 3h
+youngdesi checks
+vxshxl bets 100
+Zigenheimer folds
+youngdesi calls 100
+--- turn (Pot: 850) ---
+board: 2d 8s 3h 9d
+youngdesi checks
+vxshxl bets 100
+youngdesi calls 100
+--- river (Pot: 1050) ---
+board: 2d 8s 3h 9d Qd
+youngdesi checks
+vxshxl checks
+Total pot: 1050.
+vxshxl wins 1050 with ace high
+youngdesi shows hand (6h 7c)
+vxshxl shows hand (Ac Kc)
+
+start of hand #29 Mon Apr 15 2024 02:50:15 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+2: vidit (8584)
+3: the.trij (4962)
+5: youngdesi (6192)
+6: vxshxl (3126)
+7: Zigenheimer (2650)
+8: jay (9486)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
+Zigenheimer calls 100
+jay calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 50
+vxshxl checks
+--- flop (Pot: 600) ---
+board: 4c 3h Jc
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay bets 100
+vidit calls 100
+the.trij calls 100
+youngdesi folds
+vxshxl folds
+Zigenheimer calls 100
+--- turn (Pot: 1000) ---
+board: 4c 3h Jc Qh
+Zigenheimer checks
+jay checks
+vidit checks
+the.trij checks
+--- river (Pot: 1000) ---
+board: 4c 3h Jc Qh 5s
+Zigenheimer bets 200
+jay folds
+vidit calls 200
+the.trij folds
+Total pot: 1400.
+Zigenheimer wins 1400 with two pair queens and threes
+Zigenheimer shows hand (Qc 3c)
+vidit mucks.
+vidit shows (Ks)
+vidit shows (Ac)
+
+start of hand #30 Mon Apr 15 2024 02:52:11 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+2: vidit (8184)
+3: the.trij (4762)
+5: youngdesi (6092)
+6: vxshxl (3026)
+7: Zigenheimer (3650)
+8: jay (9286)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+Zigenheimer posts blind (100)
+jay calls 100
+vidit folds
+the.trij calls 100
+youngdesi calls 100
+vxshxl raises 200
+Zigenheimer calls 100
+jay calls 100
+the.trij calls 100
+youngdesi calls 100
+--- flop (Pot: 1000) ---
+board: Tc 2h Qs
+vxshxl bets 100
+Zigenheimer calls 100
+jay folds
+the.trij calls 100
+youngdesi calls 100
+--- turn (Pot: 1400) ---
+board: Tc 2h Qs 9c
+vxshxl checks
+Zigenheimer checks
+the.trij checks
+youngdesi checks
+--- river (Pot: 1400) ---
+board: Tc 2h Qs 9c 3h
+vxshxl checks
+Zigenheimer checks
+the.trij checks
+youngdesi checks
+Total pot: 1400.
+youngdesi wins 1400 with a pair of nines
+vxshxl shows hand (Kc 4d)
+Zigenheimer shows hand (8c Kh)
+the.trij mucks.
+youngdesi shows hand (9h Ac)
+
+start of hand #31 Mon Apr 15 2024 02:53:29 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+2: vidit (8184)
+3: the.trij (4462)
+5: youngdesi (7192)
+6: vxshxl (2726)
+7: Zigenheimer (3350)
+8: jay (9086)
+--- pre-flop (Pot: 0) ---
+Zigenheimer posts blind (50)
+jay posts blind (100)
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 50
+jay checks
+--- flop (Pot: 500) ---
+board: Td Qs 6h
+Zigenheimer checks
+jay checks
+vidit bets 100
+the.trij calls 100
+youngdesi calls 100
+Zigenheimer folds
+jay folds
+--- turn (Pot: 800) ---
+board: Td Qs 6h 3c
+vidit bets 400
+the.trij folds
+youngdesi calls 400
+--- river (Pot: 1600) ---
+board: Td Qs 6h 3c Ah
+vidit bets 496
+youngdesi folds
+496 returned to vidit
+vidit wins pot (1600), everyone folded.
+vidit shows (6c)
+vidit shows (Ts)
+
+start of hand #32 Mon Apr 15 2024 02:55:27 GMT+0000 (Coordinated Universal Time)}
+Dealer: Zigenheimer.
+2: vidit (9184)
+3: the.trij (4262)
+5: youngdesi (6592)
+6: vxshxl (2726)
+7: Zigenheimer (3250)
+8: jay (8986)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+vidit posts blind (100)
+the.trij calls 100
+youngdesi calls 100
+vxshxl folds
+Zigenheimer calls 100
+jay calls 50
+vidit checks
+--- flop (Pot: 500) ---
+board: Jh 3h Ac
+jay bets 100
+vidit folds
+the.trij calls 100
+youngdesi calls 100
+Zigenheimer calls 100
+--- turn (Pot: 900) ---
+board: Jh 3h Ac 7d
+jay bets 299
+the.trij folds
+youngdesi calls 299
+Zigenheimer calls 299
+--- river (Pot: 1797) ---
+board: Jh 3h Ac 7d 5c
+jay bets 210
+youngdesi calls 210
+Zigenheimer calls 210
+Total pot: 2427.
+Zigenheimer wins 2427 with two pair jacks and fives
+jay shows hand (As 9h)
+youngdesi mucks.
+Zigenheimer shows hand (5d Js)
+
+start of hand #33 Mon Apr 15 2024 02:57:07 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+2: vidit (9084)
+3: the.trij (4062)
+5: youngdesi (5883)
+6: vxshxl (2726)
+7: Zigenheimer (4968)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+youngdesi folds
+vxshxl folds
+Zigenheimer folds
+vidit calls 50
+the.trij checks
+--- flop (Pot: 200) ---
+board: Ah Tc 9d
+vidit bets 200
+the.trij folds
+200 returned to vidit
+vidit wins pot (200), everyone folded.
+vidit shows (6h)
+vidit shows (Jh)
+
+start of hand #34 Mon Apr 15 2024 02:57:52 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+2: vidit (9184)
+3: the.trij (3962)
+5: youngdesi (5883)
+6: vxshxl (2726)
+7: Zigenheimer (4968)
+8: jay (8277)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+vidit folds
+the.trij calls 50
+youngdesi checks
+--- flop (Pot: 500) ---
+board: Qd 4h 6c
+the.trij checks
+youngdesi checks
+vxshxl bets 201
+Zigenheimer calls 201
+jay folds
+the.trij folds
+youngdesi folds
+--- turn (Pot: 902) ---
+board: Qd 4h 6c 2s
+vxshxl bets 201
+Zigenheimer calls 201
+--- river (Pot: 1304) ---
+board: Qd 4h 6c 2s Ac
+vxshxl checks
+Zigenheimer checks
+Total pot: 1304.
+vxshxl wins 1304 with two pair queens and fours
+vxshxl shows hand (4c Qh)
+Zigenheimer mucks.
+
+start of hand #35 Mon Apr 15 2024 02:59:19 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+2: vidit (9184)
+3: the.trij (3862)
+5: youngdesi (5783)
+6: vxshxl (3528)
+7: Zigenheimer (4466)
+8: jay (8177)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
+Zigenheimer calls 100
+jay calls 100
+vidit calls 100
+the.trij calls 100
+youngdesi calls 50
+vxshxl checks
+--- flop (Pot: 600) ---
+board: 9d Ad 9s
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+vidit checks
+the.trij checks
+--- turn (Pot: 600) ---
+board: 9d Ad 9s 2c
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+vidit checks
+the.trij checks
+--- river (Pot: 600) ---
+board: 9d Ad 9s 2c 8d
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay bets 100
+vidit folds
+the.trij folds
+youngdesi folds
+vxshxl calls 100
+Zigenheimer folds
+Total pot: 800.
+jay wins 800 with two pair nines and eights
+jay shows hand (Ts 8c)
+vxshxl mucks.
+vxshxl shows (Qh)
+vxshxl shows (4d)
+
+start of hand #36 Mon Apr 15 2024 03:00:57 GMT+0000 (Coordinated Universal Time)}
+Dealer: youngdesi.
+2: vidit (9084)
+3: the.trij (3762)
+5: youngdesi (5683)
+6: vxshxl (3328)
+7: Zigenheimer (4366)
+8: jay (8777)
+--- pre-flop (Pot: 0) ---
+vxshxl posts blind (50)
+Zigenheimer posts blind (100)
+jay folds
+vidit folds
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 50
+Zigenheimer checks
+--- flop (Pot: 400) ---
+board: 7s 5d Jc
+vxshxl bets 100
+Zigenheimer calls 100
+the.trij calls 100
+youngdesi calls 100
+--- turn (Pot: 800) ---
+board: 7s 5d Jc Js
+vxshxl checks
+Zigenheimer checks
+the.trij checks
+youngdesi checks
+--- river (Pot: 800) ---
+board: 7s 5d Jc Js 3s
+vxshxl bets 100
+Zigenheimer calls 100
+the.trij folds
+youngdesi calls 100
+Total pot: 1100.
+vxshxl wins 550 with two pair jacks and fives
+Zigenheimer wins 550 with two pair jacks and fives
+vxshxl shows hand (5c 4c)
+Zigenheimer shows hand (3d 5h)
+youngdesi mucks.
+
+start of hand #37 Mon Apr 15 2024 03:03:07 GMT+0000 (Coordinated Universal Time)}
+Dealer: vxshxl.
+2: vidit (9084)
+3: the.trij (3562)
+5: youngdesi (5383)
+6: vxshxl (3578)
+7: Zigenheimer (4616)
+8: jay (8777)
+--- pre-flop (Pot: 0) ---
+Zigenheimer posts blind (50)
+jay posts blind (100)
+vidit folds
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 50
+jay checks
+--- flop (Pot: 500) ---
+board: 3d As 8d
+Zigenheimer checks
+jay bets 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl raises 251
+Zigenheimer folds
+jay calls 151
+the.trij calls 151
+youngdesi folds
+--- turn (Pot: 1353) ---
+board: 3d As 8d 4c
+jay checks
+the.trij checks
+vxshxl checks
+--- river (Pot: 1353) ---
+board: 3d As 8d 4c 5h
+jay bets 340
+the.trij calls 340
+vxshxl calls 340
+Total pot: 2373.
+jay wins 2373 with straight five high
+jay shows hand (2s 8h)
+the.trij mucks.
+vxshxl mucks.
+the.trij shows (Td)
+the.trij shows (Th)
+vxshxl shows (5d)
+vxshxl shows (Ad)
+
+start of hand #38 Mon Apr 15 2024 03:06:15 GMT+0000 (Coordinated Universal Time)}
+Dealer: Zigenheimer.
+2: vidit (9084)
+3: the.trij (2871)
+5: youngdesi (5183)
+6: vxshxl (2887)
+7: Zigenheimer (4516)
+8: jay (10459)
+--- pre-flop (Pot: 0) ---
+jay posts blind (50)
+vidit posts blind (100)
+the.trij calls 100
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay folds
+vidit checks
+--- flop (Pot: 550) ---
+board: 2d Ks 3s
+vidit bets 100
+the.trij calls 100
+youngdesi calls 100
+vxshxl raises 200
+Zigenheimer calls 200
+vidit calls 100
+the.trij calls 100
+youngdesi calls 100
+--- turn (Pot: 1550) ---
+board: 2d Ks 3s 5s
+vidit bets 331
+the.trij folds
+youngdesi calls 331
+vxshxl calls 331
+Zigenheimer calls 331
+--- river (Pot: 2874) ---
+board: 2d Ks 3s 5s 7c
+vidit bets 216
+youngdesi calls 216
+vxshxl calls 216
+Zigenheimer calls 216
+Total pot: 3738.
+youngdesi wins 1869 with a pair of kings
+vxshxl wins 1869 with a pair of kings
+vidit shows hand (2c 6d)
+youngdesi shows hand (Kh Ah)
+vxshxl shows hand (Kd As)
+Zigenheimer mucks.
+
+start of hand #39 Mon Apr 15 2024 03:07:56 GMT+0000 (Coordinated Universal Time)}
+Dealer: jay.
+2: vidit (8237)
+3: the.trij (2571)
+5: youngdesi (6205)
+6: vxshxl (3909)
+7: Zigenheimer (3669)
+8: jay (10409)
+--- pre-flop (Pot: 0) ---
+vidit posts blind (50)
+the.trij posts blind (100)
+youngdesi calls 100
+vxshxl calls 100
+Zigenheimer calls 100
+jay folds
+vidit calls 50
+the.trij checks
+--- flop (Pot: 500) ---
+board: 9c 3d Js
+vidit bets 187
+the.trij folds
+youngdesi raises 374
+vxshxl calls 374
+Zigenheimer calls 374
+vidit calls 187
+--- turn (Pot: 1996) ---
+board: 9c 3d Js 9s
+vidit bets 301
+youngdesi raises 602
+vxshxl folds
+Zigenheimer calls 602
+vidit calls 301
+--- river (Pot: 3802) ---
+board: 9c 3d Js 9s 6h
+vidit bets 170
+youngdesi raises 340
+Zigenheimer calls 340
+vidit calls 170
+Total pot: 4822.
+youngdesi wins 4822 with full house nines full of jacks
+youngdesi shows hand (Jc 9h)
+Zigenheimer mucks.
+vidit mucks.
+
+start of hand #40 Mon Apr 15 2024 03:09:53 GMT+0000 (Coordinated Universal Time)}
+Dealer: vidit.
+2: vidit (6821)
+3: the.trij (2471)
+5: youngdesi (9611)
+6: vxshxl (3435)
+7: Zigenheimer (2253)
+8: jay (10409)
+--- pre-flop (Pot: 0) ---
+the.trij posts blind (50)
+youngdesi posts blind (100)
+vxshxl calls 100
+Zigenheimer calls 100
+jay calls 100
+vidit calls 100
+the.trij calls 50
+youngdesi checks
+--- flop (Pot: 600) ---
+board: Qc 3d Ts
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+vidit checks
+--- turn (Pot: 600) ---
+board: Qc 3d Ts 7c
+the.trij checks
+youngdesi checks
+vxshxl checks
+Zigenheimer checks
+jay bets 100
+vidit calls 100
+the.trij calls 100
+vxshxl started vote to kick jay
+vxshxl voted yes
+Zigenheimer voted yes
+youngdesi folds
+vxshxl calls 100
+Zigenheimer calls 100
+youngdesi voted no
+vote for removing jay has failed.
+--- river (Pot: 1100) ---
+board: Qc 3d Ts 7c Ac
+the.trij checks
+vxshxl checks
+Zigenheimer checks
+jay checks
+vidit checks
+Total pot: 1100.
+the.trij wins 1100 with a pair of aces
+the.trij shows hand (8h As)
+vxshxl mucks.
+Zigenheimer mucks.
+jay mucks.
+vidit mucks.
+
+start of hand #41 Mon Apr 15 2024 03:11:20 GMT+0000 (Coordinated Universal Time)}
+Dealer: the.trij.
+2: vidit (6621)
+3: the.trij (3371)
+5: youngdesi (9511)
+6: vxshxl (3235)
+7: Zigenheimer (2053)
+8: jay (10209)
+--- pre-flop (Pot: 0) ---
+youngdesi posts blind (50)
+vxshxl posts blind (100)
