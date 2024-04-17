@@ -145,13 +145,8 @@ def main():
         for player, data in stats.items():
             print()
             print(f"{player}: Wins: {data['hands_won']}, Folded: {data['times_folded']}, Raised: {data['times_raised']}, "
-                  f"Average Bet: {data['average_bet']:.2f}, Largest Win: {data['largest_win']}")
-
-        final_payouts = get_final_payouts(file_path, hands_played + 1)
-        print("\nFinal Payouts (in $):")
-        for player, payout in final_payouts.items():
-            print(f"{player}: ${payout:.2f}")
-
+                  f"Average Bet: {data['average_bet']:.2f} chips, Largest Win: {data['largest_win']} chips")
+        
         # Calculate and print average pot size
         if game_stats['hands_played'] > 0:
             average_pot = game_stats['total_pot'] / game_stats['hands_played']
@@ -159,6 +154,13 @@ def main():
             average_pot = 0
         print()
         print(f"Average Pot Size for the game: {average_pot:.2f}")
+
+        final_payouts = get_final_payouts(file_path, hands_played + 1)
+        print("\nFinal Payouts (in $):")
+        for player, payout in final_payouts.items():
+            print(f"{player}: ${payout:.2f}")
+
+
     else:
         print("No file selected")
 
